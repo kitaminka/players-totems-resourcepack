@@ -1,5 +1,5 @@
 # night-pix-resourcepack
-Night pix minecraft server OptiFine resourcepack.
+Night Pix server Minecraft resourcepack.
 ## TODO
 - [ ] Player totems
 - [ ] Player model totems
