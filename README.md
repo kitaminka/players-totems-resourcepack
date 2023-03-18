@@ -9,4 +9,6 @@ Names are case-insensitive.
 ### Totem of Undying
 - Kitaminka
 - Kitaminka Model
+- osh_dev
+- osh_dev Model
 ___
