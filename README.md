@@ -1,8 +1,5 @@
 # night-pix-resourcepack
 Night Pix server Minecraft resourcepack.
-## TODO
-- [x] Player totems
-- [x] Player model totems
 ___
 ## Names
 Names are case-insensitive.
